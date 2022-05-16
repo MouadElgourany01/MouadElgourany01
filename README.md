@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MouadElgourany01
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me https://www.linkedin.com/in/elgourany-mouad-540243220/
 
 <!---
